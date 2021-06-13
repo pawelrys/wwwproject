@@ -20,7 +20,7 @@ class App extends Component {
   render() {
     return (
         <div>
-            <Parallax bgImage={ image3 } strength={500}>
+            <Parallax className="images" bgImage={ image3 } strength={500}>
             <HashRouter>
                 <div>
                     <div className="menu">

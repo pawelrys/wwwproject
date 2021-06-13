@@ -19,12 +19,17 @@ h1, h2, p, ul, li {
 }
 
 ul.header li {
-  display: inline;
+  display: inline-block;
   list-style-type: none;
-
 }
+
 ul.header {
+  position: relative;
+  display: block;
   background-color: darkgrey;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
   padding: 0;
 }
 ul.header li a {
@@ -50,4 +55,5 @@ ul.header li a {
 
 .images{
   min-height: 1000px;
+  position: absolute;
 }
