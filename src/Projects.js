@@ -3,9 +3,15 @@ class Projects extends Component {
     render() {
         return (
             <div>
-                <h2>Hello</h2>
-                <p>To jest strona Projects.</p>
-                <p>Wybierz jedną z pozycji menu, aby dowiedzieć się czegośc
+                <p>Jest to projekt na przedmiot "Programowanie dla WWW''.</p>
+                <br/>
+                <br/>
+                <br/>
+                <h2>Projekty</h2>
+                <p>Moje projekty:</p>
+                <p>XXX</p>
+                <br/>
+                <p>Wybierz jedną z pozycji menu, aby dowiedzieć się czegoś
                     więcej.</p>
             </div>
         );

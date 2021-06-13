@@ -29,7 +29,7 @@ class App extends Component {
                             <li><NavLink exact to="/aboutMe">Kilka Słów</NavLink></li>
                             <li><NavLink exact to="/experience">Doświadczenie</NavLink></li>
                             <li><NavLink exact to="/projects">Projekty</NavLink></li>
-                            <li><NavLink to="/hobby">Hobby</NavLink></li>
+                            <li><NavLink to="/hobby">Tabela</NavLink></li>
                             <li><NavLink to="/favouriteGame">Ulubiona Gra</NavLink></li>
                             <li><NavLink to="/contact">Kontakt</NavLink></li>
                         </ul>

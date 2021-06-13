@@ -4,9 +4,13 @@ class AboutMe extends Component {
     render() {
         return (
             <div>
-                <h2>Hello</h2>
-                <p>To jest strona AboutMe.</p>
-                <p>Wybierz jedną z pozycji menu, aby dowiedzieć się czegośc
+                <p>Jest to projekt na przedmiot "Programowanie dla WWW''.</p>
+                <br/>
+                <br/>
+                <br/>
+                <h2>Cześć!</h2>
+                <p>Mam na imię Paweł i jestem studentem trzeciego roku na Uniwersytecie Jagiellońskim.</p>
+                <p>Wybierz jedną z pozycji menu, aby dowiedzieć się czegoś
                     więcej.</p>
             </div>
         );

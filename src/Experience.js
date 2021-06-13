@@ -3,9 +3,15 @@ class Experience extends Component {
     render() {
         return (
             <div>
-                <h2>Hello</h2>
-                <p>To jest strona Experience.</p>
-                <p>Wybierz jedną z pozycji menu, aby dowiedzieć się czegośc
+                <p>Jest to projekt na przedmiot "Programowanie dla WWW''.</p>
+                <br/>
+                <br/>
+                <br/>
+                <h2>Moje Doświadczenie:</h2>
+                <p>Aktualnie rozpoczynam swoją przygodę programisty. Obecnie pracowałem w:</p>
+                <p>XXX</p>
+                <br/>
+                <p>Wybierz jedną z pozycji menu, aby dowiedzieć się czegoś
                     więcej.</p>
             </div>
         );

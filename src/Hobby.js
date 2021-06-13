@@ -5,10 +5,12 @@ class Hobby extends Component {
         return (
             <>
             <div>
-                <h2>Hello</h2>
-                <p>To jest strona Hobby.</p>
-                <p>Wybierz jedną z pozycji menu, aby dowieaaadzieć się czegośc
-                    więcej.</p>
+                <p>Jest to projekt na przedmiot "Programowanie dla WWW''.</p>
+                <br/>
+                <br/>
+                <br/>
+                <h2>Tabela</h2>
+                <p>Tabela do sortowania i filtrowania najbardziej niedocenianych piłkarzy i piłkarek zeszłego sezonu. Możliwe filtrowanie globalne i po kolumnach. Dane pobrate z pliku .json</p>
             </div>
 
             <Table/>
