@@ -12,6 +12,7 @@ class AboutMe extends Component {
                 <p>Mam na imię Paweł i jestem studentem trzeciego roku na Uniwersytecie Jagiellońskim.</p>
                 <p>Wybierz jedną z pozycji menu, aby dowiedzieć się czegoś
                     więcej.</p>
+
             </div>
         );
     }

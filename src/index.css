@@ -1,5 +1,7 @@
 body {
-  background-color: #FFCC00;
+  /*background-color: #333;*/
+  /*background-image: url("photos/back1.jpg");*/
+  /*background-repeat: repeat-y;*/
   /*padding: 20px;*/
   margin: auto;
 }
@@ -54,6 +56,8 @@ ul.header li a {
 .active {  background-color: black; }
 
 .images{
-  min-height: 1000px;
+  min-height: 1500px;
   position: absolute;
+  background-image: url("photos/back3.jpg");
+  background-repeat: repeat-y;
 }

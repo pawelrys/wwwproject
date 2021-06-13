@@ -12,10 +12,10 @@ import Contact from "./Contact";
 import FavouriteGame from "./FavouriteGame";
 import Experience from "./Experience";
 import Projects from "./Projects";
-import image1 from './photos/back1.jpg'
-import image2 from './photos/back2.jpg'
+// import image1 from './photos/back1.jpg'
+// import image2 from './photos/back2.jpg'
 import image3 from './photos/back3.jpg'
-import image4 from './photos/back4.jpg'
+// import image4 from './photos/back4.jpg'
 class App extends Component {
   render() {
     return (
@@ -46,12 +46,12 @@ class App extends Component {
                 </div>
             </HashRouter>
             </Parallax>
-            <Parallax className="images" bgImage={ image2 } strength={500}>
-            </Parallax>
-            <Parallax className="images" bgImage={ image1 } strength={500}>
-            </Parallax>
-            <Parallax className="images" bgImage={ image4 } strength={500}>
-            </Parallax>
+            {/*<Parallax className="images" bgImage={ image2 } strength={500}>*/}
+            {/*</Parallax>*/}
+            {/*<Parallax className="images" bgImage={ image1 } strength={500}>*/}
+            {/*</Parallax>*/}
+            {/*<Parallax className="images" bgImage={ image4 } strength={500}>*/}
+            {/*</Parallax>*/}
         </div>
     );
   }
